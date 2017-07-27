@@ -1,7 +1,7 @@
 {
   "name": "@akitabox/hubot-sns",
   "description": "Hubot script for receiving notifications from AWS Simple Notification Service",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/akitabox/hubot-sns",
   "author": "Matthew Douglass <matthew+npm@douglasstribe.com>",
   "license": "MIT",
