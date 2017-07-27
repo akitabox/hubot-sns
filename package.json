@@ -5,36 +5,30 @@
   "homepage": "https://github.com/mdouglass/hubot-sns",
   "author": "Matthew Douglass <matthew+npm@douglasstribe.com>",
   "license": "MIT",
-
   "keywords": [
     "hubot",
     "hubot-scripts",
     "aws",
     "sns"
   ],
-
   "repository": {
     "type": "git",
     "url": "https://github.com/mdouglass/hubot-sns.git"
   },
-
   "bugs": {
     "url": "https://github.com/mdouglass/hubot-sns/issues"
   },
-
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "^1.12.7",
+    "request": "^2.81.0"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "script/test"
   }
